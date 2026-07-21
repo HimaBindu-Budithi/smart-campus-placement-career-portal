@@ -252,31 +252,31 @@ Sensitive information such as passwords, access keys, and private credentials sh
 
 ### 🔐 Login Page
 
-![Login Page](images/login-page.png)
+![Login Page](images/login.png)
 
 ### 📝 Student Registration Page
 
-![Student Registration](images/register-page.png)
+![Student Registration](images/register.png)
 
 ### 👨‍💼 Admin Dashboard
 
-![Admin Dashboard](images/admin-page.png)
+![Admin Dashboard](images/admin.png)
 
 ### 🏢 Company Page
 
-![Company Page](images/company-page.png)
+![Company Page](images/company.png)
 
 ### 📄 Resume Page
 
-![Resume Page](images/resume-page.png)
+![Resume Page](images/resume.png)
 
 ### 📊 Placement Page
 
-![Placement Page](images/placement-page.png)
+![Placement Page](images/placement.png)
 
 ### 📞 Contact Page
 
-![Contact Page](images/contact-page.png)
+![Contact Page](images/contact.png)
 
 ---
 
